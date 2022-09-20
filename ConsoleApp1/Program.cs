@@ -14,6 +14,7 @@ namespace ConsoleApp1
             p.setApellido("Polimeni");
 
             Console.WriteLine(p.nombreCompleto());
+            Console.WriteLine("Prueba");
         }
     }
 
